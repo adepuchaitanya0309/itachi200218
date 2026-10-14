@@ -40,27 +40,78 @@ Outside my professional work, I build **J.A.R.V.I.S**, my personal AI platform, 
 
 <div align="center">
 
-### J.A.R.V.I.S
-**Personal AI & Full-Stack Platform**
 
-*An intelligent ecosystem connecting user applications, administration, backend services, and persistent contextual memory.*
+## 🧠 J.A.R.V.I.S — Personal AI Ecosystem
 
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<div align="center">
+
+### Two Applications. One Intelligent Ecosystem.
+
+A personal AI platform combining an AI-powered User Platform and a dedicated Administration Platform, supported by a hybrid backend architecture.
 
 </div>
 
-**✨ Key Capabilities**
+### 🖥️ 1. User Platform
 
-- 🧠 **Persistent Memory** — Contextual information and persistent data.
-- 🎙️ **Voice & Text AI** — Multiple interaction modes.
-- 🏗️ **Hybrid Backend** — Spring Boot and FastAPI services.
-- 🖥️ **Dual Platforms** — User-facing application and administration platform.
-- 🔐 **Security** — JWT authentication and role-based access control (RBAC).
+The primary user-facing application for AI interactions, persistent contextual memory, and real-time collaboration.
 
-**Architecture:** React → Spring Boot / FastAPI → MongoDB
+**Key Capabilities**
+- 🤖 AI-powered commands and conversational interactions.
+- 🎙️ Voice and text interaction workflows.
+- 🧠 Persistent contextual memory and conversation continuity.
+- 💬 Real-time communication and collaboration.
+- 🔐 Secure authentication and session management.
+- ⚡ Integrated backend services for intelligent workflows.
+
+**Technologies:** React • FastAPI • Python • MongoDB
+
+### 🛡️ 2. Administration Platform
+
+A separate administrative application for managing users, access control, security policies, and platform operations.
+
+**Key Capabilities**
+- 👥 User and administrator management.
+- 🔐 Role-Based Access Control (RBAC).
+- ⚙️ Administrative permissions and governance.
+- 📊 Platform analytics and operational visibility.
+- 🧰 Centralized administrative controls.
+
+**Technologies:** React • Java • Spring Boot • Spring Security
+
+### 🏗️ Hybrid Backend Architecture
+
+J.A.R.V.I.S combines specialized backend services to support both applications.
+
+| Component | Responsibility |
+|---|---|
+| React | User and administration interfaces |
+| FastAPI | AI interactions and user-platform services |
+| Spring Boot | Administration, security, and governance |
+| MongoDB | Persistent application data and contextual memory |
+
+**Architecture Overview**
+
+```text
+                 J.A.R.V.I.S Ecosystem
+                          |
+              +-----------+-----------+
+              |                       |
+       User Platform          Administration Platform
+              |                       |
+       React Frontend          React Frontend
+              |                       |
+       FastAPI Backend       Spring Boot Backend
+              |                       |
+              +-----------+-----------+
+                          |
+                       MongoDB
+```
+
+*The diagram represents the logical architecture; actual service integrations depend on the implemented deployment.*
+
+**Core Technologies:** React • Java • Spring Boot • Python • FastAPI • MongoDB • REST APIs • JWT • RBAC • Docker
+
+**Engineering Focus:** Full-stack development • AI integration • Persistent memory • Secure administration • Modular backend architecture • Real-time collaboration
 
 ---
 
