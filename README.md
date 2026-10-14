@@ -113,9 +113,6 @@ J.A.R.V.I.S combines specialized backend services to support both applications.
 
 **Engineering Focus:** Full-stack development • AI integration • Persistent memory • Secure administration • Modular backend architecture • Real-time collaboration
 
----
-
-## 🏢 Professional Engineering
 
 <details open>
 <summary><b>🏗️ AllureIQ — Engineering & Reporting Platform</b></summary>
@@ -137,6 +134,9 @@ A modular engineering platform focused on reusable validation, execution analyti
 `Java` `Spring Boot` `TestNG` `Allure` `REST APIs` `Azure DevOps`
 
 </details>
+---
+
+## 🏢 Professional Engineering
 
 <details open>
 <summary><b>🤖 AIlogger — AI-Assisted Failure Analysis</b></summary>
