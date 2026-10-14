@@ -113,7 +113,7 @@ J.A.R.V.I.S combines specialized backend services to support both applications.
 
 **Engineering Focus:** Full-stack development • AI integration • Persistent memory • Secure administration • Modular backend architecture • Real-time collaboration
 
-
+---
 <details open>
 <summary><b>🏗️ AllureIQ — Engineering & Reporting Platform</b></summary>
 
@@ -158,7 +158,7 @@ An AI-assisted diagnostic tool that analyses Allure execution results and genera
 **Technologies:** `Allure Results` `AI-Assisted Analysis` `Markdown` `Developer Tooling`
 
 </details>
-
+---
 <details open>
 <summary><b>🛍️ SFCC Promotion Validation Platform</b></summary>
 
@@ -181,7 +181,7 @@ A configurable commerce validation platform for enterprise promotion and loyalty
 `Java` `Spring Boot` `SFCC` `OCAPI` `REST APIs` `TestNG` `Allure`
 
 </details>
-
+---
 <details>
 <summary><b>📚 Knowledge Platform</b></summary>
 
