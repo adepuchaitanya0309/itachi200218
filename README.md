@@ -1,177 +1,206 @@
-## 👨‍💻Adepu Chaitanya
-SDET | Full-Stack Developer | Java | Spring Boot | React | Node.js | Python | Flask | Selenium | AI Automation  
+👨‍💻 Adepu Chaitanya
 
----
+Software Engineer | Platform Engineering | Backend Systems | AI-Powered Applications
 
-## 🧠 About Me  
-I’m an **SDET and aspiring Full-Stack Developer** passionate about building **AI-driven, production-grade systems** that merge **Development, Testing, and AI** into one intelligent ecosystem.  
-I design frameworks and full-stack applications that are **scalable, reusable, and self-learning**, blending automation with smart analytics.  
-Currently, I’m gaining **real-world enterprise experience at Cognizant (Boots UK)** while continuing to build advanced full-stack and AI automation solutions.
+Building scalable engineering platforms, reusable frameworks, backend systems, and AI-powered applications focused on maintainability, extensibility, and developer productivity.
 
----
+Currently at Cognizant Technology Solutions, contributing to enterprise engineering initiatives for Walgreens Boots Alliance (Boots UK).
 
-## 💼 Current Role: SDET at Cognizant (Client: Boots UK)
-Currently working as an **SDET at Cognizant**, automating and validating APIs and UI workflows for **Boots UK** using their **in-house Spring Boot–based automation framework**.  
-The framework integrates **Java, RestAssured, SQL, Allure, TestNG, XML, JSON**, and **custom AI reporting**, ensuring production-grade testing across multiple environments.
+⸻
 
-**Key Highlights:**
-- 🧩 Using **Cognizant’s internal Spring Boot + RestAssured framework** for API automation.
-- ⚙️ Tech Stack: Java, Spring Boot, RestAssured, SQL, TestNG, Allure.
-- ☁️ Environment Access: Azure DevOps, SAP QA Environments, API Gateways.
-- 🧠 Responsibilities:
-  - Automating REST APIs with validation and reporting.
-  - Debugging API failures using Allure and SQL-based backend checks.
-  - Coordinating with DevOps and QA teams for CI/CD integration.
-  - Analyzing performance and response metrics through AI reports.
+🧠 About Me
 
----
+I’m a Software Engineer passionate about designing reusable architectures, developing scalable backend systems, and building intelligent engineering tools that solve real-world business problems.
 
-## 🤖 AllureIQ – AI-Powered API Automation Framework  
-My own **AI Automation Framework** that replaces traditional RestAssured setups with **self-learning test intelligence**.  
-Built with **Java, Spring Boot, MongoDB, and Allure**, AllureIQ learns from execution history, generates summaries, and identifies recurring issues automatically.
+My experience spans Java and Spring Boot development, Salesforce Commerce Cloud (SFCC), API integrations, platform architecture, reporting systems, and AI-assisted engineering.
 
-**💡 Core Highlights**
-- ⚙️ 5× Faster Debugging — AI-driven error identification  
-- 🔁 Reusable Test Modules — Plug-and-play framework for any API  
-- 🧠 AI Intelligence — Smart summaries and recurring error patterns  
-- 📊 Unified Allure Reports — Centralized analytics with MongoDB integration  
-- ☁️ Deployed on Render — Public access to real-time AI summaries  
+Alongside my professional work, I build personal full-stack and AI applications while exploring distributed systems, software architecture, and intelligent developer tooling.
 
-**🧱 Architecture Overview**
-```
-[Test Execution] → [AI Analyzer] → [MongoDB Logs]
-        ↓                     ↓
-[AI Summary Engine] → [Allure Reports → Spring Boot Portal]
-```
+⸻
 
-**🧩 Tech Stack:**  
-Java, Spring Boot, MongoDB, Allure, TestNG, Custom AI Logic  
+🚀 Featured Projects
 
-**🚀 Framework Adoption & Impact:**  
-All 4 Full-Stack Projects were tested and validated using AllureIQ, achieving:  
-- ⚡ Faster test validation & stable APIs  
-- 🧠 AI-based debugging summaries  
-- 🔁 Reusable test modules for integration  
-- ✅ Production-grade reporting and analytics  
+1. 🧠 J.A.R.V.I.S — Personal AI Platform
 
-| Project | Stack | Tested Using | Key Benefit |
-|----------|--------|--------------|--------------|
-| 🍽️ Food Finder | Flask + Gemini AI | AllureIQ | Stable backend & fast report generation |
-| 🧠 Admin Panel | Spring Boot + Gemini AI | AllureIQ | AI summaries & rapid API testing |
-| 💻 Social Media App | MERN Stack | AllureIQ | Low latency, reusable endpoints |
-| 🎓 Student Job Tracker | MERN Stack | AllureIQ | Reliable and scalable validation |
+A personal AI platform combining user-facing applications, administration capabilities, backend services, and persistent contextual memory.
 
-⭐ **Result:**  
-AllureIQ improved test speed by **5×**, achieved **99% debugging accuracy**, and reduced manual QA time by **80%**.
+Key Features
 
----
+* Separate user and administration platforms.
+* React-based frontend applications.
+* Hybrid Spring Boot and FastAPI backend architecture.
+* MongoDB-backed persistence and contextual memory.
+* Voice and text interactions.
+* JWT authentication and role-based access control (RBAC).
 
-## 🌟 Major Full-Stack Projects
+Tech Stack: React • Java • Spring Boot • Python • FastAPI • MongoDB • JWT • RBAC
 
-### 🍽️ Food Finder – AI-Powered Recipe Platform  
-**Tech Stack:** HTML, CSS, JavaScript, Python (Flask), MySQL, Gemini AI, Redis  
-**Highlights:**
-- Intelligent recipe finder with dynamic sidebar filters (Veg, Non-Veg, Tiffins)  
-- Gemini AI–powered fuzzy search and chatbot  
-- Real-time suggestions with Redis caching  
-- Clean responsive UI with animations  
-- ✅ Tested end-to-end with AllureIQ AI Automation Framework  
+2. 🏗️ AllureIQ — Engineering & Reporting Platform
 
----
+A modular engineering platform focused on test execution visibility, reusable validation, reporting, analytics, and developer productivity.
 
-### 🧠 Food Finder – Admin Panel (Spring Boot + Gemini AI)  
-**Tech Stack:** Java (Spring Boot), HTML, CSS, JavaScript, MySQL, Gemini AI  
-**Highlights:**
-- Admin dashboard for managing recipes and users  
-- Gemini AI executes natural-language database commands  
-- Real-time analytics with top categories and duplicates detection  
-- Fast CRUD operations with Excel export  
-- ✅ Tested with AllureIQ for API validation and AI summary generation  
+Key Features
 
----
+* Reusable validation components and framework architecture.
+* Allure-integrated execution reporting and analytics.
+* HTML and Markdown report generation.
+* Structured execution results for diagnostics and troubleshooting.
+* Extensible engineering workflows.
 
-### 💻 Social Media App  
-**Tech Stack:** Node.js, Express, MongoDB, React  
-**Highlights:**
-- Full-stack social media platform with posts, chats, likes, and comments  
-- JWT authentication and secure sessions  
-- Modern responsive React UI  
-- ✅ API stability and latency verified using AllureIQ  
+Tech Stack: Java • Spring Boot • TestNG • Allure • REST APIs • Azure DevOps
 
----
+3. 🤖 AIlogger — AI-Assisted Failure Analysis
 
-### 🎓 Student Job Tracker  
-**Tech Stack:** Node.js, Express, MongoDB, React  
-**Highlights:**
-- Manage and track job applications with CRUD operations  
-- Filter-based search and analytics dashboard  
-- Built as part of Cuvette MERN assignment  
-- ✅ End-to-end API tested using AllureIQ  
+An AI-assisted diagnostics tool that analyses Allure execution results and generates structured failure reports and AI-ready debugging prompts.
 
----
+Key Features
 
-## 🧪 Additional SDET Projects
+* Analyses automated test execution results to identify failures.
+* Generates structured Markdown failure reports.
+* Produces AI-ready prompts for root-cause investigation.
+* Helps engineers investigate failure locations and potential fixes.
+* Designed for future integration with the Thor automation framework.
 
-### 🧩 Food Finder – Selenium UI Automation  
-**Tech Stack:** Java, Selenium, TestNG, POM  
-- Automated user & admin flows  
-- Verified search, category filters, and navigation  
-- Allure-integrated screenshots and reports  
+Target Impact: 15–20% reduction in debugging effort.
 
----
+Technologies: Allure Results • AI-Assisted Analysis • Markdown • Developer Tooling
 
-### 💊 WBA Wellness – Selenium (Client Project via Cognizant)  
-**Tech Stack:** Java, Selenium, TestNG, Excel Integration  
-- Automated a 25-page health assessment flow  
-- Implemented Data-Driven POM architecture  
-- Generated Excel + Allure reports  
+4. 🛍️ SFCC Promotion Validation Platform
 
----
+A configurable commerce validation platform developed for enterprise commerce workflows, focusing on promotion and loyalty business-rule validation.
 
-### 🛍️ Boots – Selenium Test  
-**Tech Stack:** Java, Selenium, TestNG  
-- Automated cart, checkout, and login flows  
-- Built reusable test components for scalability  
+Key Features
 
----
+* Reusable promotion and business-rule validation engines.
+* OCAPI-driven commerce workflows.
+* Configurable environments, products, and promotion data.
+* Modular execution flows and reporting.
+* Architecture designed to support multiple execution entry points.
+* Focus on extensibility, maintainability, and reducing technical debt.
 
-### 📘 Facebook – Selenium Test  
-**Tech Stack:** Java, Selenium, Excel, POM  
-- Automated login and signup workflows  
-- Validated error handling and form behaviors  
+Target Productivity Impact: Compressing approximately 3–4 days of validation work into 1 day.
 
----
+Tech Stack: Java • Spring Boot • Salesforce Commerce Cloud • OCAPI • REST APIs • TestNG • Allure
 
-## ⚙️ Technical Expertise
+5. 📚 Knowledge Platform
 
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| **Languages** | Java, JavaScript, Python |
-| **Frameworks** | Spring Boot, Flask, React, Express |
-| **Databases** | MySQL, MongoDB |
-| **Automation** | Selenium, AllureIQ |
-| **Testing** | TestNG, JUnit, Allure |
-| **AI Tools** | Gemini AI, Redis |
-| **Hosting** | Render, Vercel |
-| **Environments** | Azure, SAP, GitHub Actions |
+A Spring Boot-based knowledge platform integrating multiple information sources to support centralized access to organizational knowledge.
 
----
+Integrations: Confluence • Google Forms • Google Sheets
 
-## 🌱 Currently Learning
-- Spring Boot Microservices  
-- Advanced React.js  
-- Data Structures & Algorithms  
-- AI-powered automation design  
+Tech Stack: Java • Spring Boot • REST APIs
 
----
+⸻
 
-## 📫 Contact Me
-- 🔗 LinkedIn: **Adepu Chaitanya**  
-- 💻 GitHub: **@itachi200218**  
-- 🌐 Portfolio: **[GitHub](https:https://github.com/itachi200218/itachi200218)**  
+💼 Professional Experience
 
----
+Software Engineer — Cognizant Technology Solutions
 
-## 🧩 Summary
-I’m an **SDET working at Cognizant** (Boots client) and an **aspiring Full-Stack Developer** passionate about merging testing intelligence with real-world development.  
-My in-house **AI-powered automation framework (AllureIQ)** has tested all 4 of my full-stack projects — delivering ⚡ **Fast**, 🔁 **Reusable**, and 🧠 **AI-Driven** testing with **5★ Debug Accuracy** and **Production-Grade Impact**.
+Client: Walgreens Boots Alliance (Boots UK)
+
+Contributing to enterprise commerce engineering, backend development, platform architecture, reusable frameworks, reporting, and AI-assisted developer productivity.
+
+Commerce & Backend Engineering
+
+* Work across SFCC and PWA workflows, including inventory, promotions, checkout, payments, and Advantage Card.
+* Support API-driven validation and enterprise integration workflows.
+
+Platform & Framework Engineering
+
+* Develop a configurable Java and Spring Boot-based commerce validation platform.
+* Build reusable business-rule engines, validation components, OCAPI services, and management portal capabilities.
+* Develop modular reporting and execution analytics.
+
+AI-Assisted Engineering
+
+* Develop AIlogger for Allure-results analysis, structured failure reporting, and debugging support.
+* Focus on improving troubleshooting efficiency and developer productivity.
+
+Client Engagement
+
+* Presented an SFCC engineering platform during the Boots UK client visit in Bangalore.
+* Delivered a separate C&L initiative demonstration to senior client stakeholders.
+* Communicated engineering capabilities and potential business value through client-facing demonstrations.
+
+⸻
+
+🌟 Personal Full-Stack Projects
+
+🍽️ Food Finder — AI-Powered Recipe Platform
+
+* Recipe discovery with category filters and intelligent search.
+* Gemini AI-powered search and conversational assistance.
+* Redis caching and MySQL-backed data.
+* Responsive frontend and Flask backend.
+
+Tech Stack: HTML • CSS • JavaScript • Python • Flask • MySQL • Redis • Gemini AI
+
+🛠️ Food Finder — Administration Portal
+
+* Recipe and user management.
+* CRUD operations and dashboard analytics.
+* AI-assisted natural-language database interactions.
+* Reporting and spreadsheet export capabilities.
+
+Tech Stack: Java • Spring Boot • MySQL • JavaScript • Gemini AI
+
+💬 Social Media Application
+
+* Full-stack application supporting posts, chats, likes, and comments.
+* JWT-based authentication.
+* React frontend and REST API backend.
+
+Tech Stack: React • Node.js • Express • MongoDB
+
+🎓 Student Job Tracker
+
+* Job application tracking and management.
+* CRUD operations, filtering, and analytics.
+* Built as part of a MERN assignment.
+
+Tech Stack: React • Node.js • Express • MongoDB
+
+⸻
+
+🧪 Quality Engineering & Automation
+
+* UI Automation: Selenium, Java, TestNG, Page Object Model (POM).
+* API Validation: REST APIs, RestAssured, backend data validation.
+* Reporting: Allure, HTML reports, Markdown reports, execution analytics.
+* Commerce Validation: SFCC promotions, inventory, checkout, and loyalty workflows.
+* Developer Productivity: Reusable test components, diagnostic tooling, and CI/CD-oriented workflows.
+
+⸻
+
+🛠️ Technical Skills
+
+Category	Technologies
+Languages	Java, Python, JavaScript, SQL
+Backend	Spring Boot, FastAPI, Flask, Node.js, Express
+Frontend	React, HTML, CSS
+Databases & Caching	MongoDB, MySQL, Redis
+Commerce & APIs	SFCC, SCAPI, OCAPI, REST APIs, MuleSoft
+Quality Engineering	Selenium, TestNG, RestAssured, Allure
+DevOps & Tools	Azure DevOps, Docker, Git, GitHub Actions
+AI Engineering	Gemini AI, AI-assisted diagnostics, contextual memory systems
+
+⸻
+
+🌱 Currently Exploring
+
+* Scalable backend and distributed-system architecture.
+* Spring Boot microservices and enterprise platform design.
+* Data structures and algorithms in Java.
+* AI-assisted engineering and developer productivity.
+* Reusable frameworks and configuration-driven systems.
+
+⸻
+
+📫 Connect With Me
+
+* GitHub: @itachi200218
+* LinkedIn: Adepu Chaitanya
+
+⸻
+
+Building reusable systems, engineering scalable platforms, and exploring the intersection of backend development and AI.
